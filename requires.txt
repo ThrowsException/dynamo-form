@@ -1,0 +1,2 @@
+sprockets-dynamodb==2.3.0
+tornado==4.5.3
